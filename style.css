@@ -1,0 +1,25 @@
+body{
+    background-color:ivory;
+    font-family:'Times New Roman', Times, serif;
+    text-transform: uppercase;
+}
+
+button{
+    width:30%;
+    background-color:darkcyan;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    font-size: 15px;
+    float:right;
+    margin:10px;
+    
+}
+
+Img{
+    width: 100%;
+    padding-top: 20px;
+    margin-top: 10px;
+}
+
+
